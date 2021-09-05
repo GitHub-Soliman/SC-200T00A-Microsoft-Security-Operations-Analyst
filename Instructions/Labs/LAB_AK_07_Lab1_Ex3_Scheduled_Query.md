@@ -57,7 +57,7 @@ applicationSet = makeset(AppDisplayName) by UserPrincipalName, IPAddress
 
 19. Select the **Next: Automated response >** button.
 
-20. On the Automated response tab in the Alert automation area, select the playbook *PostMessageTeams-OnAlert* you had created in the previous exercise.
+20. On the Automated response tab in the "**Incident automation (preview)**" area click "**+Add new**", enter an "*Automation rule name*", click "*Actions*", select "*Run Playbook.*", *and* select the playbook *PostMessageTeams-OnAlert* you had created in the previous exercise.
 
 22. Select the **Next: Review >** button.
   
